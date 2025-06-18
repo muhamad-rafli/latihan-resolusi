@@ -3,5 +3,5 @@ LATIHAN RESOLUSI
 - Konsisten untuk ngoding setiap hari
 - Membuat website
 - Membuat aplikasi
-- Membuat duplikat bettle.net
 - Kolaborasi
+- Membuat game
